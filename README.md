@@ -9,3 +9,5 @@
  - Login validation with jwt
  - This project containing 2 privilege user such as admin and user
 	admin can run CRUD but user only access List and Detail
+# Resume 
+ - https://registry.jsonresume.org/JokoParminto
